@@ -1,3 +1,9 @@
+
+![GitHub repo size](https://img.shields.io/github/repo-size/MohammadZarchi/TweetComentsMining)
+![GitHub issues](https://img.shields.io/github/issues/MohammadZarchi/TweetComentsMining)
+![GitHub](https://img.shields.io/github/license/MohammadZarchi/TweetComentsMining)
+![Twitter Follow](https://img.shields.io/twitter/follow/ZarchiMohammad?style=social)
+
 # Tweet Comments Miner
 
 Using this code snippet, you can stream all the comments of a particular tweet_
