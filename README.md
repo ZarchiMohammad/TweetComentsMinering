@@ -2,7 +2,7 @@
 ![GitHub repo size](https://img.shields.io/github/repo-size/MohammadZarchi/TweetComentsMining)
 [![GitHub forks](https://img.shields.io/github/forks/MohammadZarchi/TweetComentsMining.svg)](https://github.com/MohammadZarchi/TweetComentsMining)
 ![GitHub issues](https://img.shields.io/github/issues/MohammadZarchi/TweetComentsMining)
-![GitHub](https://img.shields.io/github/license/MohammadZarchi/TweetComentsMining)
+![GitHub contributors](https://img.shields.io/github/contributors/MohammadZarchi/TweetComentsMining)
 ![Twitter Follow](https://img.shields.io/twitter/follow/ZarchiMohammad?style=social)
 
 # Tweet Comments Minering
