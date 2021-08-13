@@ -6,7 +6,7 @@
 
 # Tweet Comments Minering
 
-Using this code snippet, you can stream all the comments of a particular tweet_
+Using this code snippet, you can stream all the comments of a particular tweet
 
 For example, we can refer to [@ZarTweety's first tweet](https://twitter.com/ZarTweety/status/1420971733444608008)
 
